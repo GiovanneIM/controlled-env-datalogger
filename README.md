@@ -6,8 +6,8 @@ Trabalho realizado para a N2 da disciplina de **Sistemas Embarcados** na **Facul
 Integrantes do grupo
 
 
-# Documentação
+## Documentação
 
-# Especificações técnicas
+## Especificações técnicas
 
-# Código Fonte
+## Código Fonte
